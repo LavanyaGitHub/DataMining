@@ -2,14 +2,14 @@
 """
 Created on Tue Sep 19 18:57:15 2017
 
-@author: Lahari
+@author: Lavanya Mengaraboina
 """
 #import libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 #import dataset
-dataset = pd.read_csv('asst.csv')
+dataset = pd.read_csv('Regression.csv')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 1].values
 #into training set
