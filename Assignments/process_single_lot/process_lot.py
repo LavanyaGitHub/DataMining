@@ -55,8 +55,8 @@ if __name__=='__main__':
 
     
     #initialising definition_file with json file and image_file with jpg file
-    definition_file = 'C:\\Users\\keerthi\\.spyder-py3\\project1.json'
-    image_file = 'C:\\Users\\keerthi\\.spyder-py3\\2012-12-07_17_12_25.jpg'
+    definition_file = 'C:\\Users\\lahari\\.spyder-py3\\project1.json'
+    image_file = 'C:\\Users\\lahari\\.spyder-py3\\2012-12-07_17_12_25.jpg'
 
     spaces = load_spaces(definition_file)
     s=0
