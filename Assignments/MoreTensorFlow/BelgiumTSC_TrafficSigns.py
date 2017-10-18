@@ -2,16 +2,10 @@
 """
 Created on Tue Oct 17 22:11:37 2017
 
-@author: Lahari
+@author: Lavanya Mengaraboina
 """
 import os
 import tensorflow as tf
-
-
-import tensorflow as tf
-import os
-import skimage
-from skimage import data
 import matplotlib.pyplot as plt
 import numpy as np 
 import random
@@ -21,6 +15,8 @@ def load_data(data_directory):
                    if os.path.isdir(os.path.join(data_directory, d))]
     labels = []
     images = []
+    import skimage
+    from skimage import data
     for d in directories:
         label_directory = os.path.join(data_directory, d)
         file_names = [os.path.join(label_directory, f) 
