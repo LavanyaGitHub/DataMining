@@ -28,7 +28,7 @@ def load_data(data_directory):
     return images, labels
 
 ROOT_PATH = "C:/Users/Lahari/Documents/data mining/"
-train_data_directory = os.path.join(ROOT_PATH, "BelgiumTSC_Testing/Testing")
+train_data_directory = os.path.join(ROOT_PATH, "BelgiumTSC_Training/Training")
 test_data_directory = os.path.join(ROOT_PATH, "BelgiumTSC_Testing/Testing")
 
 images, labels = load_data(train_data_directory)
