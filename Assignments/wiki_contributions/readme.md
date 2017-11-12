@@ -9,7 +9,7 @@
 
 #### Powerpoint
 
-![My Powerpoint Presentation](http://google.com)
+![My Powerpoint Presentation - GoogleNet](https://github.com/LavanyaMengaraboina/DataMining-mengaraboina/blob/master/Assignments/wiki_contributions/googlenet.pptx)
 
 #### Contributed Words
 
