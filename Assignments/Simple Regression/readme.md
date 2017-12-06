@@ -1,4 +1,6 @@
 
-Simple Regression
+# Individual Assignment
+# Lavanya Mengaraboina
+# Simple Regression
 
-Individual Assignment
+Simple linear regression to training set 
