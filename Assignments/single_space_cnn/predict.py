@@ -6,7 +6,7 @@ import sys,argparse
 
 # First, pass the path of the image
 dir_path = os.path.dirname(os.path.realpath(__file__))
-image_path="./testing_data/dogs/dog.1110.jpg"
+image_path="./testing_data/Occupied/7.jpg"
 filename = dir_path +'/' +image_path
 image_size=128
 num_channels=3
