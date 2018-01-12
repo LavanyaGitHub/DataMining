@@ -1,6 +1,1 @@
-# DataMining-mengaraboina
-
-
-Lavanya Mengaraboina   
-
 
