@@ -3,13 +3,13 @@
 
 | Roster #        | Name                 |
 |:--------:|:--------------------:|
-|   9     |    Lavanya Mengaraboina  |
-|   5     |    Krishna Saka          |
+|   9     |    Lavanya  |
+|   5     |    Krishna           |
 
 
 #### Powerpoint
 
-![My Powerpoint Presentation - GoogleNet](https://github.com/LavanyaMengaraboina/DataMining-mengaraboina/blob/master/Assignments/wiki_contributions/googlenet.pptx)
+![My Powerpoint Presentation - GoogleNet]
 
 #### Contributed Words
 
