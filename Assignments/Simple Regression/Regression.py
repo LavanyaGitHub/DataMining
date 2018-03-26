@@ -2,7 +2,7 @@
 """
 Created on Tue Sep 19 18:57:15 2017
 
-@author: Lavanya Mengaraboina
+@author: Lavanya 
 """
 #import libraries
 import numpy as np
