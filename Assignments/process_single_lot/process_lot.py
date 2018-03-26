@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Team members:
-1.Krishna Saka
-2.Lavanya Mengaraboina
-3.Keerthi Reddy Gangidi
+1.Krishna 
+2.Lavanya 
+3.Keerthi Reddy 
 """
 #importing required files
 import numpy as np
