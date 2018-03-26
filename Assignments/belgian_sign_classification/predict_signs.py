@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 17 22:11:37 2017
 
-@author: Lavanya Mengaraboina
+@author: Lavanya 
 """
 import os
 import tensorflow as tf
