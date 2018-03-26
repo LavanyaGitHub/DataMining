@@ -1,6 +1,6 @@
 
 ### Individual Assignment
-### Lavanya Mengaraboina
+### Lavanya 
 ### Simple Regression
 
 Simple linear regression to training set 
