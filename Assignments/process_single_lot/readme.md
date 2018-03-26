@@ -3,6 +3,6 @@
 
 |Roster #        | Name                 |
 |:--------:|:--------------------:|
-|   9     |    Lavanya Mengaraboina      |
-|   2      |   Keerthi Reddy Gangidi         |
-|   5     |    Krishna Saka       |
+|   9     |    Lavanya     |
+|   2      |   Keerthi Reddy       |
+|   5     |    Krishna      |
