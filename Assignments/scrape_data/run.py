@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 16 16:02:56 2017
 
-@author: Lavanya Mengaraboina
+@author: Lavanya 
 """
 #This program shows the scraping of ICC rankings website. The information 
 #for the top 100 batsman worldwide is being retrieved through this and is written 
